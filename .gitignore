@@ -1,0 +1,11 @@
+frontend/node_modules/
+backend/__pycache__/
+*.pyc
+.env
+backend/uvicorn_output.log
+frontend/node_modules/
+backend/__pycache__/
+*.pyc
+.env
+*.log
+backend/webflow.db
